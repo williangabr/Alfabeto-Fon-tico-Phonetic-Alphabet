@@ -43,7 +43,7 @@ Abrir uma Issue para relatar bugs ou sugerir melhorias.
 Fazer um Fork do projeto e enviar um Pull Request com suas alterações.
 
 ✒️ Autor
-(https://github.com/williangabr) - Seu Perfil do GitHub
+https://github.com/williangabr
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
